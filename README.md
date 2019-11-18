@@ -1,7 +1,7 @@
 
 ## **Nasvhille Scooter Analysis**
 
-**Sumary:**\
+**Summary:**\
 Nashville's department of urban planning is interested to find an ideal density and count of scooters to its residents, without over-crowing sidewalks and streets.
 
 This project was a class assignment where teams of four decided which aspects of the project to pursue. My team reviewed the quality of data provided by the micro-mobility providers.
